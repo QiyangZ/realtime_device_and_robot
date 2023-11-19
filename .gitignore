@@ -1,0 +1,4 @@
+# bin and zip
+*.bin
+*.zip
+*.pdf
